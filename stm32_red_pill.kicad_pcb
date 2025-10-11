@@ -3177,7 +3177,7 @@
 			(uuid "456a8bad-c1f8-45e4-aaeb-0690beec63ce")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/629105150521 (rev1).stp"
+		(model "${KIPRJMOD}/lib/3D/629105150521 (rev1).step"
 			(offset
 				(xyz 0 1 1)
 			)
@@ -3185,7 +3185,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)

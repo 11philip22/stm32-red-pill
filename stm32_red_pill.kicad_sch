@@ -4089,10 +4089,10 @@
 		(uuid "92d83783-34ae-4b48-960b-ff12c5ec1721")
 	)
 	(junction
-		(at 64.77 73.66)
+		(at 60.96 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a843e87b-73de-4188-b061-c7492bad8bf6")
+		(uuid "a2db466a-4116-429f-84b9-51af018adc77")
 	)
 	(junction
 		(at 97.79 45.72)
@@ -4394,7 +4394,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 67.31) (xy 85.09 67.31)
+			(xy 67.31 67.31) (xy 85.09 67.31)
 		)
 		(stroke
 			(width 0)
@@ -4584,7 +4584,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 73.66) (xy 64.77 73.66)
+			(xy 57.15 73.66) (xy 60.96 73.66)
 		)
 		(stroke
 			(width 0)
@@ -4641,6 +4641,16 @@
 			(type default)
 		)
 		(uuid "58900fd4-d973-4b02-9cc7-b460a45804e7")
+	)
+	(wire
+		(pts
+			(xy 60.96 73.66) (xy 67.31 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59018a59-ca70-4d33-a077-5c87149b7ba4")
 	)
 	(wire
 		(pts
@@ -4824,7 +4834,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 90.17) (xy 64.77 91.44)
+			(xy 60.96 90.17) (xy 60.96 91.44)
 		)
 		(stroke
 			(width 0)
@@ -5014,7 +5024,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 73.66) (xy 64.77 82.55)
+			(xy 60.96 73.66) (xy 60.96 82.55)
 		)
 		(stroke
 			(width 0)
@@ -5134,7 +5144,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 73.66) (xy 64.77 67.31)
+			(xy 67.31 73.66) (xy 67.31 67.31)
 		)
 		(stroke
 			(width 0)
@@ -5344,7 +5354,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 91.44) (xy 64.77 91.44)
+			(xy 53.34 91.44) (xy 60.96 91.44)
 		)
 		(stroke
 			(width 0)
@@ -7452,7 +7462,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 64.77 86.36 0)
+		(at 60.96 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7460,7 +7470,7 @@
 		(dnp no)
 		(uuid "53411c6b-ee73-47c8-98dc-f4898f644120")
 		(property "Reference" "C11"
-			(at 68.58 85.0899 0)
+			(at 64.77 85.0899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7469,7 +7479,7 @@
 			)
 		)
 		(property "Value" "10p"
-			(at 68.58 87.6299 0)
+			(at 64.77 87.6299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7478,7 +7488,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 65.7352 90.17 0)
+			(at 61.9252 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7487,7 +7497,7 @@
 			)
 		)
 		(property "Datasheet" "https://weblib.samsungsem.com/mlcc/mlcc-ec-data-sheet.do?partNumber=CL05C100JB5NNN"
-			(at 64.77 86.36 0)
+			(at 60.96 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7496,7 +7506,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 64.77 86.36 0)
+			(at 60.96 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7505,7 +7515,7 @@
 			)
 		)
 		(property "MPN" "C32949"
-			(at 64.77 86.36 0)
+			(at 60.96 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
